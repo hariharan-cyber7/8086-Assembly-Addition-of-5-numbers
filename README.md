@@ -46,8 +46,10 @@ CODE ENDS
 END
 ```
 # Manual calulation:
+<img width="522" height="555" alt="image" src="https://github.com/user-attachments/assets/0f2b784a-1414-47b2-b461-6bd5898b4e79" />
 
-## Output from masm software:
+
+## Output image from masm software:
 <img width="640" height="480" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/550632b2-9f23-42f8-ace5-a96df70bc83e" />
 
 ## RESULT:
